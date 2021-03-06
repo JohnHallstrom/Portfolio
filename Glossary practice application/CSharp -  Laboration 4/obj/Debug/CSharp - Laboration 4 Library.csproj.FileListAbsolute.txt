@@ -1,0 +1,5 @@
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4\bin\Debug\CSharp -  Laboration 4.dll
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4\bin\Debug\CSharp -  Laboration 4.pdb
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4\obj\Debug\CSharp - Laboration 4 Library.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4\obj\Debug\CSharp -  Laboration 4.dll
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4\obj\Debug\CSharp -  Laboration 4.pdb

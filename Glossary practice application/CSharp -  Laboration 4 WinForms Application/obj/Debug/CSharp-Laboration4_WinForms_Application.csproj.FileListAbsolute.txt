@@ -1,0 +1,18 @@
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\bin\Debug\CSharp -  Laboration 4 WinForms Application.exe.config
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\bin\Debug\CSharp -  Laboration 4 WinForms Application.exe
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\bin\Debug\CSharp -  Laboration 4 WinForms Application.pdb
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\bin\Debug\CSharp -  Laboration 4.dll
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\bin\Debug\CSharp -  Laboration 4.pdb
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharp-Laboration4_WinForms_Application.csprojAssemblyReference.cache
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharpLaborationFourWinFormsApplication.FormAddWord.resources
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharpLaborationFourWinFormsApplication.FormIntroduction.resources
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharpLaborationFourWinFormsApplication.FormNewList.resources
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharpLaborationFourWinFormsApplication.FormLoadList.resources
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharpLaborationFourWinFormsApplication.FormWordList.resources
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharp____Laboration_4_WinForms_Application.Properties.Resources.resources
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharp-Laboration4_WinForms_Application.csproj.GenerateResource.cache
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharp-Laboration4_WinForms_Application.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharp-Laboration4_WinForms_Application.csproj.CopyComplete
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharp -  Laboration 4 WinForms Application.exe
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharp -  Laboration 4 WinForms Application.pdb
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 WinForms Application\obj\Debug\CSharpLaborationFourWinFormsApplication.FormAbout.resources

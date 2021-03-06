@@ -1,0 +1,10 @@
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\bin\Debug\CSharp -  Laboration 4 Console Application.exe.config
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\bin\Debug\CSharp -  Laboration 4 Console Application.exe
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\bin\Debug\CSharp -  Laboration 4 Console Application.pdb
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\bin\Debug\CSharp -  Laboration 4.dll
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\bin\Debug\CSharp -  Laboration 4.pdb
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\obj\Debug\CSharp - Laboration 4 Console Application.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\obj\Debug\CSharp - Laboration 4 Console Application.csproj.CopyComplete
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\obj\Debug\CSharp -  Laboration 4 Console Application.exe
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\obj\Debug\CSharp -  Laboration 4 Console Application.pdb
+C:\Users\John\source\repos\CSharp -  Laboration 4\CSharp -  Laboration 4 Console Application\obj\Debug\CSharp - Laboration 4 Console Application.csprojAssemblyReference.cache
