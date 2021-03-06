@@ -1,4 +1,8 @@
-# DatabasLaboration3
+#  Database manager for bookstores
+
+![image](https://user-images.githubusercontent.com/70512727/110217776-431c2e00-7eb6-11eb-9645-30bfca286042.png)
+
+### Description
 
 > Setting up the project: 
 
